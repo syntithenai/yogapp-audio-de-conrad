@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "de-conrad.zip", "bytes": 62803162, "sha256": "c41277864cbeef14179bd2d27079195ae2ca1116deef16e581e4071f36482f99"}
+  ]
+}

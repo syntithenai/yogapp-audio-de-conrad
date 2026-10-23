@@ -1,0 +1,198 @@
+{
+  "id": "confidence-5",
+  "voiceId": "de-conrad",
+  "edgeVoice": "de-DE-ConradNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 332,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "Suchen Sie sich einen bequemen Sitz oder legen Sie sich hin, wenn sich das besser anfühlt.",
+      "file": "c001.ogg",
+      "durationSec": 9.48
+    },
+    {
+      "index": 2,
+      "text": "Lassen Sie die Hände ruhen.",
+      "file": "c002.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 3,
+      "text": "Machen Sie die Augen weicher oder schließen Sie sie.",
+      "file": "c003.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 4,
+      "text": "Atme langsam ein.",
+      "file": "c004.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 5,
+      "text": "Und ein längeres Ausatmen.",
+      "file": "c005.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 6,
+      "text": "Fühlen Sie die Sitzknochen oder die Füße.",
+      "file": "c006.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 7,
+      "text": "Eine stabile Basis unter Ihnen.",
+      "file": "c007.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 8,
+      "text": "[Pause:22]",
+      "file": "c008.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 9,
+      "text": "Verlängern Sie die Wirbelsäule, ohne sich zu verhärten.",
+      "file": "c009.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 10,
+      "text": "Weiches Gesicht. Weicher Bauch. Starkes Zentrum.",
+      "file": "c010.ogg",
+      "durationSec": 9.72
+    },
+    {
+      "index": 11,
+      "text": "[Pause:22]",
+      "file": "c011.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 12,
+      "text": "Probieren Sie diese Sätze im Stillen aus oder hören Sie einfach zu.",
+      "file": "c012.ogg",
+      "durationSec": 7.656
+    },
+    {
+      "index": 13,
+      "text": "Ich kann erfüllen, was mir zusteht.",
+      "file": "c013.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 14,
+      "text": "[Pause:22]",
+      "file": "c014.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 15,
+      "text": "Ich muss mein Werden nicht überstürzen.",
+      "file": "c015.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 16,
+      "text": "[Pause:22]",
+      "file": "c016.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 17,
+      "text": "Ich vertraue meinem nächsten ehrlichen Schritt.",
+      "file": "c017.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 18,
+      "text": "[Pause:28]",
+      "file": "c018.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 19,
+      "text": "Atme Selbstvertrauen als Wärme in der Brust, nicht als Rüstung.",
+      "file": "c019.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 20,
+      "text": "[Pause:28]",
+      "file": "c020.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Stellen Sie sich vor, wie Sie eine gewöhnliche Herausforderung mit Standhaftigkeit meistern.",
+      "file": "c021.ogg",
+      "durationSec": 9.888
+    },
+    {
+      "index": 22,
+      "text": "[Pause:33]",
+      "file": "c022.ogg",
+      "durationSec": 33.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Kehren Sie zum Atem zurück.",
+      "file": "c023.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 24,
+      "text": "Stetig. Genug.",
+      "file": "c024.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 25,
+      "text": "[Pause:28]",
+      "file": "c025.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 26,
+      "text": "Atmen Sie noch einmal ruhig durch.",
+      "file": "c026.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 27,
+      "text": "Wackeln Sie mit den Fingern.",
+      "file": "c027.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 28,
+      "text": "Wenn Sie bereit sind, öffnen Sie die Augen.",
+      "file": "c028.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 29,
+      "text": "Tragen Sie ein wenig davon bei sich.",
+      "file": "c029.ogg",
+      "durationSec": 5.04
+    }
+  ]
+}

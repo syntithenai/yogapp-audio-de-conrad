@@ -1,0 +1,236 @@
+{
+  "id": "mountain-still-10",
+  "voiceId": "de-conrad",
+  "edgeVoice": "de-DE-ConradNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 635,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "Nehmen Sie sich Zeit zum Ankommen.",
+      "file": "c001.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 2,
+      "text": "Setzen oder legen Sie sich mit Unterstützung hin.",
+      "file": "c002.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 3,
+      "text": "Schließen Sie die Augen, wenn sich das sicher anfühlt.",
+      "file": "c003.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 4,
+      "text": "Spüren Sie den Kontakt mit dem Boden.",
+      "file": "c004.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 5,
+      "text": "Langsam einatmen.",
+      "file": "c005.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 6,
+      "text": "Längeres Ausatmen.",
+      "file": "c006.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 7,
+      "text": "[Pause:28]",
+      "file": "c007.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Wieder.",
+      "file": "c008.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 9,
+      "text": "[Pause:28]",
+      "file": "c009.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 10,
+      "text": "Lassen Sie die Schultern fallen.",
+      "file": "c010.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 11,
+      "text": "Lassen Sie den Bauch weich werden.",
+      "file": "c011.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 12,
+      "text": "[Pause:36]",
+      "file": "c012.ogg",
+      "durationSec": 36.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Stellen Sie sich vor, Sie wären ein Berg.",
+      "file": "c013.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 14,
+      "text": "Basis breit. Spitzenstille. Große Geduld.",
+      "file": "c014.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 15,
+      "text": "[Pause:43]",
+      "file": "c015.ogg",
+      "durationSec": 43.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Das Wetter bewegt sich über den Berg.",
+      "file": "c016.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 17,
+      "text": "Sonne. Wind. Wolke. Sturm.",
+      "file": "c017.ogg",
+      "durationSec": 9.912
+    },
+    {
+      "index": 18,
+      "text": "Der Berg bleibt.",
+      "file": "c018.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 19,
+      "text": "[Pause:57]",
+      "file": "c019.ogg",
+      "durationSec": 57.0,
+      "silence": true
+    },
+    {
+      "index": 20,
+      "text": "Gedanken und Stimmungen sind Wetter.",
+      "file": "c020.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 21,
+      "text": "Du bist der Berg.",
+      "file": "c021.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 22,
+      "text": "[Pause:57]",
+      "file": "c022.ogg",
+      "durationSec": 57.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Spüren Sie, wie die Basis Ihres Körpers verwurzelt ist.",
+      "file": "c023.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 24,
+      "text": "Spüren Sie die Höhe der Wirbelsäule ohne Anstrengung.",
+      "file": "c024.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 25,
+      "text": "[Pause:43]",
+      "file": "c025.ogg",
+      "durationSec": 43.0,
+      "silence": true
+    },
+    {
+      "index": 26,
+      "text": "Atme wie der Himmel um den Berg.",
+      "file": "c026.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 27,
+      "text": "[Pause:71]",
+      "file": "c027.ogg",
+      "durationSec": 71.0,
+      "silence": true
+    },
+    {
+      "index": 28,
+      "text": "Stetig. Ohne Eile. Genug.",
+      "file": "c028.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 29,
+      "text": "[Pause:90]",
+      "file": "c029.ogg",
+      "durationSec": 90.0,
+      "silence": true
+    },
+    {
+      "index": 30,
+      "text": "[Pause:43]",
+      "file": "c030.ogg",
+      "durationSec": 43.0,
+      "silence": true
+    },
+    {
+      "index": 31,
+      "text": "Beginnen Sie, den Atem zu vertiefen.",
+      "file": "c031.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 32,
+      "text": "Spüren Sie den Raum noch einmal.",
+      "file": "c032.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 33,
+      "text": "Wackeln Sie mit Fingern und Zehen.",
+      "file": "c033.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 34,
+      "text": "Wenn Sie fertig sind, öffnen Sie die Augen.",
+      "file": "c034.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 35,
+      "text": "Gehen Sie langsam auf das ein, was als nächstes kommt.",
+      "file": "c035.ogg",
+      "durationSec": 6.816
+    }
+  ]
+}
